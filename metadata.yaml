@@ -1,0 +1,35 @@
+_repo: Les-confessions-de-saint-Augustin-eveque-d-Hippone-precedees-de-sa-vie-par-S-Possidius-eveque__67320
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moreau, L. G.
+    gutenberg_agent_id: '53023'
+    url: http://www.gutenberg.org/2009/agents/53023
+creator:
+  authors:
+  - agent_name: Saint Augustin, bishop of Hippo
+    gutenberg_agent_id: '54212'
+    url: http://www.gutenberg.org/2009/agents/54212
+  - agent_name: Calamensis, Saint Possidius
+    gutenberg_agent_id: '54213'
+    url: http://www.gutenberg.org/2009/agents/54213
+description: ''
+gutenberg_issued: '2022-02-04'
+identifiers:
+  gutenberg: '67320'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1170247f
+pgterms:marc905: 20181220212216augustinbi
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Ernest Flammarion,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les confessions de saint Augustin, évêque d''Hippone: précédées de sa vie
+  par S. Possidius, évêque de Calame... ; traduction nouvelle par L. Moreau'
+url: http://www.gutenberg.org/ebooks/67320
