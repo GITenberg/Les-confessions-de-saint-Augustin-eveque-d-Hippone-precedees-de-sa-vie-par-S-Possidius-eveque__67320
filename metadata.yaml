@@ -5,6 +5,9 @@ contributor:
     agent_name: Moreau, L. G.
     gutenberg_agent_id: '53023'
     url: http://www.gutenberg.org/2009/agents/53023
+covers:
+- cover_type: archival
+  image_path: 67320-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Saint Augustin, bishop of Hippo
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54213'
     url: http://www.gutenberg.org/2009/agents/54213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67320#Les-confessions-de-saint-Augustin-eveque-d-Hippone-precedees-de-sa-vie-par-S-Possidius-eveque_
 gutenberg_issued: '2022-02-04'
 identifiers:
   gutenberg: '67320'
